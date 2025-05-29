@@ -1,16 +1,16 @@
 # ${\color{red} Sales\ Analysis\ Using\ MySQL}$
 
-# Objective
+# 🎯Objective
 
 - To perform comprehensive sales data analysis to uncover patterns, top performers, and regional trends using SQL queries.
  
-# Tools Used
+# 🛠️Tools Used
 
 - SQL (Structured Query Language)
   
 - MySQL database (assumed from syntax)
  
-# Steps Included
+# 📋Steps Included
 
 - Data filtering based on conditions (e.g., date, category, shipping mode)
   
@@ -21,7 +21,7 @@
 - Pattern matching using LIKE
   
 - Window functions (RANK())
-# Analysis Included
+# 📈Analysis Included
 
 - High-value orders by shipping mode
 
@@ -36,7 +36,7 @@
 - Customer order behavior
 
 - Product-based sales ranking
-# Key Insights
+# 🔑Key Insights
 
 - Identified top customers and high-value orders
 
@@ -45,6 +45,6 @@
 - Found sales trends in specific countries and categories
 
 - Discovered customer name and product pattern insights
-# Conclusion
+# ✅Conclusion
 - The analysis helped derive actionable insights for business decisions like targeting profitable regions, top customers, and products with higher returns.
   
